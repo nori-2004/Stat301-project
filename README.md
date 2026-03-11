@@ -145,9 +145,4 @@ This project was completed in **R** using:
 - `glmnet`
 - `mltools`
 
----
 
-
-│   ├── boxplots.png
-│   └── predicted_vs_actual.png
-└── data/
